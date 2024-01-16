@@ -1,6 +1,6 @@
 [submodule "yellowrook1"]
 	path = yellowrook1
-	url = https://github.com/yellowrook1/yellowrook1
+	url = javascript:alert(1)
 [submodule "file"]
 	path = file
 	url = https://github.com/yellowrook1/yellowrook1
